@@ -1,0 +1,41 @@
+# Кэш и временные файлы Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Виртуальные окружения
+.venv/
+venv/
+env/
+ENV/
+
+# Настройки окружения
+.env
+.env.*
+*.env
+
+# Git
+.git/
+.gitignore
+
+# Сборка и дистрибуция
+build/
+dist/
+*.egg-info/
+*.egg
+
+# IDE и редакторы
+.idea/
+.vscode/
+*.swp
+
+# Docker
+Dockerfile*
+docker-compose*
+
+# Тесты
+.coverage
+htmlcov/
+pytest_cache/

@@ -1,0 +1,20 @@
+# Виртуальное окружение
+.venv/
+venv/
+
+# Переменные окружения
+.env
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# Кэш тестов
+.pytest_cache/
+
+# IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
