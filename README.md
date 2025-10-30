@@ -10,7 +10,7 @@
 
 ### 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/S1immer/ttronic
+git clone https://github.com/S1immer/ttronics_api
 ```
 
 Перейдите в папку проекта:
