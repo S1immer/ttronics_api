@@ -49,7 +49,7 @@ docker-compose logs -f
 ##### 1. Откройте pgAdmin в браузере.
 - Перейдите по адресу - http://127.0.0.1:5050
 
-##### 2. Откройте pgAdmin в браузере.
+##### 2. Авторизация:
 **Данные для входа в pgAdmin:** 
 - **Email:** admin@admin.com
 - **Password:** admin
